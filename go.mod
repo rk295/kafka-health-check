@@ -1,4 +1,4 @@
-module github.com/andreas-schroeder/kafka-health-check
+module github.com/rk295/kafka-health-check
 
 go 1.19
 
